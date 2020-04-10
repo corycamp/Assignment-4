@@ -3,7 +3,6 @@ import java.util.List;
 import java.io.*;
 import java.util.Map.Entry;
 import javafx.application.Application;
-import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.text.Font;
