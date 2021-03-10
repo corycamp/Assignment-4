@@ -26,7 +26,7 @@ import javafx.scene.chart.XYChart;
  * commonly made, especially when combining it witht the averages found in this program.
  */
 
-//Spotify class to create the chart
+//Movie class to create the chart
 public class Spotify extends Application{
   
   @Override
