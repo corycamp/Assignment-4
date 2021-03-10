@@ -1,4 +1,4 @@
-# Spotify Chart
+# Movie Chart
 **The java file named Spotify Chart is the main file in the repository**
 *This program scans a csv file and makes a chart showing the genres of different movies and the amount of them per genre, from *largest to smallest.
 *There are two classes, a Chart class which holds the code to make the chart and a Info class which parses and sorts the info from *the file.
