@@ -16,9 +16,7 @@ import javafx.scene.chart.LineChart;
 import javafx.scene.chart.XYChart;
 //          Cory Campbell
 // NB) the visualization question that we are to come up with is in the comment below
-//          CISC 3130
-//          Assignment #4
-//          MW 9:05 - 10:45
+
 /* This program scans a csv file and makes a chart showing the genres of different movies and the amount of them per genre, from largest to smallest.
  * There are two classes, a Chart class which holds the code to make the chart and a Info class which parses and sorts the info from the file.
  * The file is sent to 5 methods in the info class to parse the data through the parse and year methods, then counts the data through the count method and finally orders and cleans up empty or null spaces in the descending order method.
@@ -28,8 +26,8 @@ import javafx.scene.chart.XYChart;
  * commonly made, especially when combining it witht the averages found in this program.
  */
 
-//Assignment4 class to create the chart
-public class Assignment4 extends Application{
+//Spotify class to create the chart
+public class Spotify extends Application{
   
   @Override
   public void start(Stage primaryStage) throws Exception{
