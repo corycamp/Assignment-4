@@ -27,7 +27,7 @@ import javafx.scene.chart.XYChart;
  */
 
 //Movie class to create the chart
-public class Spotify extends Application{
+public class Movie extends Application{
   
   @Override
   public void start(Stage primaryStage) throws Exception{
